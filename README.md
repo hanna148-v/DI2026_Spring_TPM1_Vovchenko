@@ -1,5 +1,5 @@
 # DI2026_Spring_TPM1_Vovchenko
-Тестовое задание BA/PM — Book24.ru
+Тестовое задание BA/PM 
 
 Случайный продукт: №7 book24.ru
 
