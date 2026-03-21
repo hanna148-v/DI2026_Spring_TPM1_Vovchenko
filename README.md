@@ -4,3 +4,5 @@
 
 # Структура репозитория
 - [ba.md](ba/ba.md)
+- [pm.md](pm/pm.md)
+- [prompt.md](ai/prompt.md)
