@@ -3,6 +3,6 @@
 Выбранный продукт: №7 book24.ru
 
 # Структура репозитория
-- [ba.md](ba/ba.md)
-- [pm.md](pm/pm.md)
-- [prompt.md](ai/prompt.md)
+- [ba.md](ba/ba.md) - основная часть
+- [pm.md](pm/pm.md - блок-схема
+- [prompt.md](ai/prompt.md) - использовавшиеся промпты
