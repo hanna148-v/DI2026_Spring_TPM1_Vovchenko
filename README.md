@@ -6,8 +6,9 @@
 # Структура репозитория
 BA-часть:
 - [ba1.1.md](ba/ba1.1.md)
-- [ba1.2.md](ba/ba1.1.md)
-- [ba1.3.md](ba/ba1.1.md)
+- [ba1.2.md](ba/ba1.2.md)
+- [ba1.3.md](ba/ba1.3.md)
+
 PM-часть:
 
 - [prompt.md](ai/prompt.md) - использовавшиеся промпты
