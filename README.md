@@ -10,5 +10,8 @@ BA-часть:
 - [ba1.3.md](ba/ba1.3.md)
 
 PM-часть:
+- [pm2.1.md](pm/pm2.1.md)
+- [pm2.2.md](pm/pm2.2.md)
+
 
 - [prompt.md](ai/prompt.md) - использовавшиеся промпты
